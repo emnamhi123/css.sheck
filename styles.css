@@ -1,0 +1,30 @@
+/*this is an externel css */
+a{
+    color:rgb(255, 0, 0);
+}
+.title{
+    color: rgb(61, 165, 42);
+}
+#special{
+    color: rgb(226, 128, 43);
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+/*unvisible link*/
+a:link{
+    color: blue;
+}
+/*visited link*/
+a{
+    color:red;
+}
+.title{
+    border: 1px green solid;
+    width: 100px;
+}
